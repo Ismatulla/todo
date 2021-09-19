@@ -67,5 +67,5 @@ app.route('/remove/:id').get((req,res)=>{
 
 // SERVER LISTENING ON PORT 3000 //
 app.listen(3000,function(){
-    console.log('I am listening you boy!!')
+    console.log('listening on port 3000!!')
 })
